@@ -53,25 +53,25 @@ export default defineConfig({
         name: "nowartuea",
         "icons": [
           {
-            "src": "/pwa-192x192.png",
+            "src": "/pwa2-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any"
           },
           {
-            "src": "/pwa-512x512.png",
+            "src": "/pwa2-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any"
           },
           {
-            "src": "/pwa-maskable-192x192.png",
+            "src": "/pwa2-maskable-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
           },
           {
-            "src": "/pwa-maskable-512x512.png",
+            "src": "/pwa2-maskable-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
