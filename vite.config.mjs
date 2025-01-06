@@ -50,6 +50,19 @@ export default defineConfig({
       registerType: 'autoUpdate',
       devOptions:{enabled: true},
       manifest: {
+        name: "nowartuea",
+        icons: [
+          {
+            src: "assets/logo.png",
+            type: "image/png",
+            size: "512x512"
+          },
+          {
+            src: "assets/logo.png",
+            type: "image/png",
+            size: "192x192"
+          },
+        ],
         theme_color: 'black',
       }
     })
